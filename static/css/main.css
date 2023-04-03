@@ -1,0 +1,11 @@
+body{
+    background: #000;
+}
+
+#PROFILE_PIC{
+    width: 150px;
+    height: 170px;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
